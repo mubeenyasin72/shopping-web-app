@@ -1,0 +1,104 @@
+#cart-btn-1{
+    padding:5px 40px;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid #f7f7f4;
+}
+#cart-btn-3{
+    padding:20px 40px;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid #f7f7f4;
+}
+#delivery-method-col-sm-3{
+    border: 2px solid;
+    border-radius: 25px;
+    border-color: #f7e8d5;
+    width: 15%;
+    height: 200px
+}
+#cart-btn-4{
+    border: 1px solid #FFAF29;
+    border-radius:25px;
+    color: #FFAF29;
+    border-radius: 20px;
+    padding:10px 20px;
+    margin-left: 35px;
+    margin-right: 30px;
+    margin-bottom: -70px;
+}
+#cart-btn-4{
+    background-color: #FFAF29;
+    color: #ffffff;
+}
+
+#address-btn{
+    border: 1px solid;
+    border-color: #f4f4f1;
+    margin-left: 100px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+#total-price-cart{
+    height: 50px;
+    width: 15%;
+    border-radius: 20px;
+    padding: 4px 0px;
+    margin-top: 70px;
+    background: #f1f1ee;
+}
+#shopping-btn{
+    border: 1px solid;
+    border-color: #f4f4f1;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+#proceed-payment-btn{
+    border: 1px solid #FFAF29;
+    border-radius:25px;
+    color: #FFAF29;
+    padding:10px 20px;
+    margin-left: 100px;
+}
+#proceed-payment-btn{
+    background-color: #FFAF29;
+    color: #ffffff;
+}
+
+#shpping-icons-sum-1 i{
+    font-size: 2em;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 20px;
+    
+    margin-left: 50px;
+}
+#shpping-icons-sum-1
+{
+    margin: auto;
+}
+#shpping-icons-sum-2 i{
+    font-size: 2em;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 20px;
+}
+#shpping-icons-sum-2
+{
+    margin: auto;
+}
+#shpping-icons-sum-3 {
+    margin: auto;
+}
+#shpping-icons-sum-3 i{
+    font-size: 2em;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 20px;
+    color: #FFAF29;
+}
+
+#hr-sum{
+    margin-top: 20px;
+    float: left;
+}

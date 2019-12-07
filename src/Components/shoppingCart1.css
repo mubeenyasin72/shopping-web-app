@@ -1,0 +1,60 @@
+#cart-btn{
+    border: 1px solid #FFAF29;
+    padding: 10px;
+    border-radius:25px;
+    color: #FFAF29;
+}
+#cart-btn:hover{
+    background-color: #FFAF29;
+    color: #ffffff;
+}
+#cart-btn-1{
+    border:1px solid;
+    padding: 10px;
+    border-radius: 25px;
+    color: black;
+}
+#exampleInputEmail1{
+    border:1px sloid;
+    border-radius: 25px;
+    padding: 20px;
+    width: 80%;
+}
+#shpping-icons1
+{
+    margin: auto;
+}
+#shpping-icons1 i{
+    font-size: 2em;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 20px;
+    
+    margin-left: 50px;
+}
+#shpping-icons2
+{
+    margin: auto;
+}
+#shpping-icons2 i{
+    font-size: 2em;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 20px;
+    color: #FFAF29;
+}
+#shpping-icons3
+{
+    margin: auto;
+}
+#shpping-icons3 i{
+    font-size: 2em;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 20px;
+    
+}
+#hr-1{
+    margin-top: 20px;
+    float: left;
+}
